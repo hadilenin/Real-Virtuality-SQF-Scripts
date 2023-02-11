@@ -1,0 +1,10 @@
+class CfgSounds{
+
+	sounds[] = {};
+
+	class distantShot{
+		name = "distantSniperShot";
+		sound[] = {url,volume,pitch,distance};
+		titles[] = {};
+	};
+}
